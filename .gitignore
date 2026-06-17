@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# InvestBuddy data directories
+data/filings/
+data/chroma/
+
+# Local env file (use .env.example as the template)
+.env
